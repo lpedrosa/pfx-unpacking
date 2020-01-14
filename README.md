@@ -4,6 +4,8 @@ Simple .NET Core 3 example showing how to read a PKCS12/PFX file and extracting 
 
 ## Usage
 
+Change to the project directory and run:
+
 ```
 dotnet run <pfx-path> [pfx-passphrase]
 ```
